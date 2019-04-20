@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.temizle{
+    clear: both;
+    width: 100%;
+}
+.esas{
+    width: 100%;
+    height: auto;
+}
+.esassol{
+    width: 80%;
+    height: 0px;
+    float: left;
+}
+.esassag{
+    width: 20%;
+    height: 0px;
+    float: right;
+}
+.esassol1{
+    width: 27%;
+    height: 50px;
+    float: left;
+    
+}
+.esassol2{
+    width: 70%;
+    height: auto;
+    float: right;
+    padding: 13px;
+    background-color: beige;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+.qalin{
+    border: 2px solid;
+}
+.nazik{
+border: 1px solid silver;
+}
+.p{
+    font-size: 15px;
+}
+span{
+    text-align: center;
+}
+.bir{
+    width: 100%;
+    height: 90px;
+}
+.birsol{
+    width: 30%;
+    height: 90px;
+    float: left;
+    text-align: left;
+    line-height: 17px;
+}
+.birsag{
+    width: 70%;
+    height: 90px;
+    float: right;
+    text-align: left;
+}
+.iki{
+    width: 100%;
+    height: 110px;
+}
+.ikisol{
+    width: 30%;
+    height: 110px;
+    float: left;
+    text-align: left;
+
+}
+.ikisag{
+    width: 70%;
+    height: 110px;
+    float: right;
+}
+.uc{
+width: 100%;
+height: 100px;
+}
+.ucsol{
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+.ucsag{
+    width: 70%;
+    height: 100px;
+    float: right; 
+}
+.dord{
+    width: 100%;
+    height: 100px;
+}
+.dordsol{
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+.dordsag{
+    width: 70%;
+    height: 100px;
+    float: right;
+}
+.bes{
+    width: 100%;
+    height: 100px;
+}
+.ici{
+    padding: 19px;
+}
